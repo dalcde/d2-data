@@ -1,0 +1,8 @@
+{
+  "type": "finite dimensional module",
+  "name": "Cnu",
+  "p": 2,
+  "generic": false,
+  "gens": { "x0": 0, "x4": 4 },
+  "actions": ["Sq4 x0 = x4"]
+}

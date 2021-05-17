@@ -1,0 +1,8 @@
+{
+  "type": "finite dimensional module",
+  "name": "Ceta",
+  "p": 2,
+  "generic": false,
+  "gens": { "x0": 0, "x2": 2 },
+  "actions": ["Sq2 x0 = x2"]
+}
